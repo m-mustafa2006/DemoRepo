@@ -11,3 +11,4 @@ public class SquareTest {
         assertEquals(25, output_obj);
     }
 }
+// This is Square Test v2
